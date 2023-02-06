@@ -1,3 +1,8 @@
+**/.DS_Store
+**/rest_alarm
+**/work_alarm
+# **/*alarm
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
